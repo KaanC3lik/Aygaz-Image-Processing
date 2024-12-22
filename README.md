@@ -40,4 +40,5 @@ This project uses a Convolutional Neural Network (CNN) to classify images of 10 
 6. **Color Correction:**  
    - Distorted images were corrected using color stabilization techniques, and the model was re-evaluated.  
 
-   
+## Kaggle link
+https://www.kaggle.com/code/kaanc3ik/aygaz-image-processing/edit
